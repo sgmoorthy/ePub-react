@@ -7,7 +7,7 @@ import { ReaderContainer } from "./components";
 const storage = global.localStorage || null;
 
 const DEMO_URL =
-  "https://gerhardsletten.github.io/react-reader/files/alice.epub";
+  "https://github.com/sgmoorthy/ePub-react/blob/master/src/UnmaiArithal_ThiruVilanga.epub";
 
 const DEMO_NAME = "Unnmai Arithal";
 
