@@ -7,8 +7,7 @@ import { ReaderContainer } from "./components";
 const storage = global.localStorage || null;
 
 const DEMO_URL =
-  "https://github.com/sgmoorthy/ePub-react/blob/master/src/UnmaiArithal_ThiruVilanga.epub";
-
+  "https://sgmoorthy.github.io/ePub-react/src/UnmaiArithal_ThiruVilanga.epub";
 const DEMO_NAME = "Unnmai Arithal";
 
 class App extends Component {
